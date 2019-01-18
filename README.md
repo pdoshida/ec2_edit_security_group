@@ -1,3 +1,3 @@
 # ec2_edit_security_group
 
-ipはマカレルのもの。外形監視に使われているIPを許可して開発環境を一時的に監視したかった。
+複数IPをSecurityGroupに追加したいとき。
